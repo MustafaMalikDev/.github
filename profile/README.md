@@ -2,8 +2,8 @@
   <h1>Hi, I'm Mustafa Malik 👨‍💻</h1>
   <h3>Software Engineer | Game Developer | OS Enthusiast</h3>
   <p>
-    I'm a second year undergraduate at the University of Kent studying Software Engineering. I am very passionate about designing and developing tools and applications useful for myself and other people. I have a strong interest
-    in Operating Systems and Kernel Development. Alongside that, I also have interest in Web Development, specifically Fullstack Development.
+    I'm a second year undergraduate at the University of Kent studying Software Engineering. I am very passionate about designing, developing tools and applications useful for myself and other people. I have a strong interest
+    in Operating Systems and Kernel Development. Alongside that, I also have interest in Web Development.
   </p>
 </div>
 
